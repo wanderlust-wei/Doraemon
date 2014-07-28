@@ -1,0 +1,36 @@
+p.blueegg {
+   display:block;
+  position:absolute;
+right:10px;
+  top:10px;
+width:300px;
+   width: 126px; 
+   height: 150px;
+   background-color: #ADD8E6;
+   -webkit-border-radius: 63px 63px 63px 63px / 108px 108px 72px 72px;
+   border-radius:        50%   50%  50%  50%  / 60%   60%   40%  40%;
+}
+
+p.pinkegg{
+   display:block;
+ float:left;
+   top:10px;
+  left:100px;
+   width: 126px; 
+   height: 150px;
+   background-color: #f36;
+   -webkit-border-radius: 63px 63px 63px 63px / 108px 108px 72px 72px;
+   border-radius:        50%   50%  50%  50%  / 60%   60%   40%  40%;
+}
+
+p.blueegg1 {
+   display:block;
+  position:relative;
+ top:10px;
+   left:100px;
+   width: 126px; 
+   height: 150px;
+   background-color: #ADD8E6;
+   -webkit-border-radius: 63px 63px 63px 63px / 108px 108px 72px 72px;
+   border-radius:        50%   50%  50%  50%  / 60%   60%   40%  40%;
+}
